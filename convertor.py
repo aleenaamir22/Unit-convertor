@@ -22,10 +22,10 @@ st.markdown("""
         body {
             background-color:#E6E6FA;
             color: #4a4a4a;
-            font-family: Arial, sans-serif;
+            font-family:Poppins, sans-serif;
         }
         .stApp {
-            background-color:#E6E6FA ;
+            background-color#FFE4E1:;
         }
         .stSelectbox, .stNumber_input, .stButton > button {
             background-color: #dfe6e9;
