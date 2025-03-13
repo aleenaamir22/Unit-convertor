@@ -20,7 +20,7 @@ st.set_page_config(page_title="Unit Converter", page_icon="⚖️", layout="cent
 st.markdown("""
     <style>
         body {
-            background-color: #f7f1e3;
+            background-color:pink;
             color: #4a4a4a;
             font-family: Arial, sans-serif;
         }
