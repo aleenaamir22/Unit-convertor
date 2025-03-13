@@ -25,7 +25,7 @@ st.markdown("""
             font-family: Arial, sans-serif;
         }
         .stApp {
-            background-color:#77DD77 ;
+            background-color:#E6E6FA ;
         }
         .stSelectbox, .stNumber_input, .stButton > button {
             background-color: #dfe6e9;
