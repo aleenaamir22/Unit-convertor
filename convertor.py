@@ -20,12 +20,12 @@ st.set_page_config(page_title="Unit Converter", page_icon="⚖️", layout="cent
 st.markdown("""
     <style>
         body {
-            background-color:pink;
+            background-color:#E6E6FA;
             color: #4a4a4a;
             font-family: Arial, sans-serif;
         }
         .stApp {
-            background-color: #f7f1e3;
+            background-color:#77DD77 ;
         }
         .stSelectbox, .stNumber_input, .stButton > button {
             background-color: #dfe6e9;
