@@ -34,7 +34,7 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
-st.title("Uni Converter By Aleena Amir")
+st.title("Unit Converter By Aleena Amir")
 
 categories = {"Length": ["Meter", "Kilometer", "Centimeter", "Millimeter", "Mile"],
               "Weight": ["Kilogram", "Gram", "Pound", "Ounce"],
